@@ -25,6 +25,10 @@ String s3="123";
 int s4=Integer.valueOf(s3);
 System.out.println(s4);
 
+char e='q';
+String r=String.valueOf('q');
+System.out.println(r);
+
 //method 4-equals()
 
 String s5="java";
